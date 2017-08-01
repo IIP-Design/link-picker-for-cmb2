@@ -1,0 +1,14 @@
+{
+    "name": "iip-design/link-picker-for-cmb2",
+    "type": "wordpress-plugin",
+    "description" : "Link Picker control designed to work with CMB2",
+    "authors": [
+        {
+            "name": "Matt Watson"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+       "composer/installers": "~1.0"
+    }
+}
